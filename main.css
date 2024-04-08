@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+}
+ 
+ 
+body {
+    color: white;
+    background: black;
+    height: 100vh;
+    padding: 12px;
+}
+
+
+.align_center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+canvas {
+    border: 12px solid #1b1b1b;
+    color: black;
+    background: #00000000;
+    display: block;
+    opacity: 0.90;
+}
+
+
+
+
+
+
+
+
+
